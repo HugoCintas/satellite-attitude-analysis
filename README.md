@@ -5,7 +5,7 @@ The objective of this project is to implement on a Hercules TMS570LS12x a module
 ## Status
 This project is still in development.
 
-## Milestones
+## To Do
 1.  Create all the functions needed to calculate the Kalman Filter.
 2.  Analyse the data get from the captors with a Kalman Filter.
 3.  Show the analysis results throught the USB port to the user.
